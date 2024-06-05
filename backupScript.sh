@@ -11,7 +11,7 @@
 
 
 #!/bin/bash
-tar -czf /home/jay/jaspreetsohal/bashscript_backups/$(date +%F).tar.gz Bashscripts
+tar -czf /home/jay/jaspreetsohal/script_outputs/$(date +%F).tar.gz Bashscripts
 
 
 #End of the script
