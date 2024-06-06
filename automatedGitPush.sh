@@ -19,7 +19,5 @@ git commit -m "Automated commit"
 git push origin main
 
 
-
-
 #End of the script
 
