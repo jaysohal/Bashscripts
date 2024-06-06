@@ -19,7 +19,5 @@ sudo apt-get clean -y
 
 
 
-
-
 #End of the script
 
